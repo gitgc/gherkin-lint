@@ -1,7 +1,9 @@
 # Gherkin lint
 [![Run NodeJS Tests](https://github.com/gherkin-lint/gherkin-lint/actions/workflows/npm_test.yml/badge.svg)](https://github.com/gherkin-lint/gherkin-lint/actions/workflows/npm_test.yml)
 [![Coverage Status](https://coveralls.io/repos/github/gherkin-lint/gherkin-lint/badge.svg?branch=master)](https://coveralls.io/github/gherkin-lint/gherkin-lint?branch=master)
-[![npm](https://img.shields.io/npm/v/gherkin-lint.svg?maxAge=2592000)](https://www.npmjs.com/package/gherkin-lint)
+[![npm](https://img.shields.io/npm/v/gherkin-lint-extra.svg?maxAge=2592000)](https://www.npmjs.com/package/gherkin-lint-extra)
+
+Fork of the original gherkin-lint project, with additional rules and features.
 
 Uses [Gherkin](https://github.com/cucumber/gherkin-javascript) to parse feature files and runs linting against the default rules, and the optional rules you specified in your `.gherkin-lintrc` file.
 
